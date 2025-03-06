@@ -17,22 +17,22 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
 
-   shell
+   ```shell
    git clone https://github.com/AlGhani26/Data-Analytics.git
-   
+   ```
 
 2. Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
 
-   shell
+   ```shel
    pip install -r requirements.txt
-   
+   ```
 
 ## Penggunaan
 
 1. Masuk ke direktori proyek (Local):
 
-   shell
+   ```shell
    streamlit run dashboard/dashboard.py
-   
+   ```
 
    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://data-analytics-kxjrhtrk6gb2nmf5evcpmt.streamlit.app/)
