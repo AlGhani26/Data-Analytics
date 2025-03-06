@@ -6,8 +6,8 @@ from matplotlib.ticker import FuncFormatter
 
 
 # Load data
-day_df = pd.read_csv("D:/Document/PROYEK/Dicoding/Analisis-Data-Python/proyek/data/day.csv")
-hour_df = pd.read_csv("D:/Document/PROYEK/Dicoding/Analisis-Data-Python/proyek/data/hour.csv")
+day_df = pd.read_csv("data/day.csv")
+hour_df = pd.read_csv("data/day.csv")
 
 # Sidebar
 with st.sidebar:
