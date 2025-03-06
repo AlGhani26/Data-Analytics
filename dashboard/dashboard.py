@@ -12,7 +12,7 @@ hour_df = pd.read_csv("data/day.csv")
 # Sidebar
 with st.sidebar:
     st.title("Muhamad Naufal Al Ghani")
-    st.image("logo.png", use_container_width=True)
+    st.image("logo.png")
 
 # Main
 st.title("Dashboard Penyewaan Sepeda 🚲")
